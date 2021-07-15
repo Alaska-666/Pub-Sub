@@ -38,3 +38,11 @@ Publisher и subscriber общаются между собой методом о
 ●	Сохраняет полученные данные в БД
 
 ●	ACTION purchase должен сохраняться в таблицу PURCHASE, а ACTION  subscription в таблицу SUBSCRIPTION
+
+## Схема БД
+Две таблицы: PURCHASE и SUBSCRIPTION.
+В каждой таблице есть id integer, msisdn integer, timestamp Timestamp.
+
+
+
+
